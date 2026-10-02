@@ -3,14 +3,16 @@
 <img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/2ad1e4ea-46b9-48b3-8303-97f456eb097c" />
 
 ---
+# Directors (105)
 
-## Directors (97)
- 
 | Director | Country | Active | Films |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | Abbas Kiarostami | Iran | 1970–2017 | 40 |
 | Akira Kurosawa | Japan | 1943–1993 | 31 |
 | Alain Cavalier | France | 1958–2019 | 27 |
+| Alain Guiraudie | France | 1990–2024 | 13 |
+| Alain Resnais | France | 1948–2014 | 27 |
+| Alain Robbe-Grillet | France | 1963–2006 | 10 |
 | Andreï Zviaguintsev | Russia | 2003–2017 | 7 |
 | Andrzej Wajda | Poland | 1951–2016 | 44 |
 | Ann Hui | Hong Kong | 1979–2020 | 28 |
@@ -18,8 +20,8 @@
 | Artavazd Peleshian | Armenia | 1964–2019 | 10 |
 | Asghar Farhadi | Iran | 2003–2021 | 9 |
 | Bahram Beyzai | Iran | 1970–2001 | 11 |
-| Billy Wilder | USA | 1934–1981 | 27 |
 | Béla Tarr | Hungary | 1978–2011 | 16 |
+| Billy Wilder | USA | 1934–1981 | 27 |
 | Carl Theodor Dreyer | Denmark | 1919–1954 | 22 |
 | Carlos Saura | Spain | 1960–2022 | 39 |
 | Chang Cheh | Hong Kong | 1965–1991 | 82 |
@@ -42,34 +44,38 @@
 | Germaine Dulac | France | 1919–1930 | 12 |
 | Glauber Rocha | Brazil | 1959–1980 | 15 |
 | Harun Farocki | Germany | 1966–2020 | 70 |
+| Hirokazu Kore-eda | Japan | 1991–2023 | 21 |
+| Hong Sang-soo | South Korea | 1996–2026 | 36 |
 | Idrissa Ouedraogo | Burkina Faso | 1981–2008 | 14 |
 | Jacques Rivette | France | 1949–2009 | 32 |
+| Jacques Tati | France | 1946–1978 | 8 |
 | Jafar Panahi | Iran | 1995–2025 | 15 |
 | James Benning | USA | 1974–2025 | 56 |
 | Jean Renoir | France | 1925–1970 | 37 |
 | Jean-Marie Straub and Danièle Huillet | France | 1963–2020 | 50 |
 | Jean-Pierre Melville | France | 1946–1972 | 14 |
 | Jia Zhangke | China | 1995–2024 | 24 |
+| João César Monteiro | Portugal | 1969–2003 | 22 |
 | John Cassavetes | USA | 1958–1984 | 11 |
 | John Ford | USA | 1917–1976 | 83 |
 | John Woo | Hong Kong | 1969–2023 | 36 |
 | Johnnie To | Hong Kong | 1980–2020 | 56 |
-| João César Monteiro | Portugal | 1969–2003 | 22 |
 | Keisuke Kinoshita | Japan | 1943–1988 | 46 |
 | Kenji Misumi | Japan | 1954–1974 | 7 |
 | Kenji Mizoguchi | Japan | 1925–1956 | 31 |
 | Kim Ki-duk | South Korea | 1996–2022 | 25 |
 | King Vidor | USA | 1918–1980 | 56 |
-| Kinji Fukasaku | Japan | 1961-2003 | 9 |
+| Kinji Fukasaku | Japan | 1961–2003 | 9 |
 | Kiyoshi Kurosawa | Japan | 1983–2024 | 44 |
-| Krzysztof Kieślowski | Poland | 1966–1995 | 49 |
-| Kunle Afolayan | Nigeria | 2009–2022 | 9 |
 | Kōhei Oguri | Japan | 1981–2015 | 6 |
 | Kōji Wakamatsu | Japan | 1963–2012 | 55 |
+| Krzysztof Kieślowski | Poland | 1966–1995 | 49 |
+| Kunle Afolayan | Nigeria | 2009–2022 | 9 |
 | Larisa Shepitko | Ukraine | 1957–1977 | 8 |
 | Lav Diaz | Philippines | 1998–2025 | 30 |
 | Lino Brocka | Philippines | 1970–1990 | 18 |
 | Liu Chia-liang | Hong Kong | 1975–2003 | 25 |
+| Lucrecia Martel | Argentina | 1988–2025 | 15 |
 | Masaki Kobayashi | Japan | 1952–1985 | 21 |
 | Mati Diop | France | 2009–2024 | 8 |
 | Maurice Pialat | France | 1951–1995 | 16 |
@@ -84,9 +90,10 @@
 | Nobuhiko Ōbayashi | Japan | 1960–2019 | 48 |
 | Nuri Bilge Ceylan | Turkey | 1995–2023 | 10 |
 | Oumarou Ganda | Niger | 1969–1980 | 4 |
+| Pen-Ek Ratanaruang | Thailand | 1997–2017 | 10 |
 | Pier Paolo Pasolini | Italy | 1961–1975 | 25 |
 | Rainer Werner Fassbinder | Germany | 1966–1982 | 43 |
-| Raoul Walsh | USA | 1915–1964 | 80 |
+| Raúl Ruiz | Chile | 1963–2023 | 67 |
 | René Laloux | France | 1973–1987 | 3 |
 | Ringo Lam | Hong Kong | 1983–2020 | 24 |
 | Rithy Panh | Cambodia | 1991–2024 | 14 |
