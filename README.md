@@ -4,7 +4,7 @@
 
 ---
 
-## Directors (95)
+## Directors (97)
  
 | Director | Country | Active | Films |
 | --- | --- | --- | --- |
@@ -56,9 +56,11 @@
 | Johnnie To | Hong Kong | 1980–2020 | 56 |
 | João César Monteiro | Portugal | 1969–2003 | 22 |
 | Keisuke Kinoshita | Japan | 1943–1988 | 46 |
+| Kenji Misumi | Japan | 1954–1974 | 7 |
 | Kenji Mizoguchi | Japan | 1925–1956 | 31 |
 | Kim Ki-duk | South Korea | 1996–2022 | 25 |
 | King Vidor | USA | 1918–1980 | 56 |
+| Kinji Fukasaku | Japan | 1961-2003 | 9 |
 | Kiyoshi Kurosawa | Japan | 1983–2024 | 44 |
 | Krzysztof Kieślowski | Poland | 1966–1995 | 49 |
 | Kunle Afolayan | Nigeria | 2009–2022 | 9 |
