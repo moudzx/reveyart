@@ -3,7 +3,7 @@
 <img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/2ad1e4ea-46b9-48b3-8303-97f456eb097c" />
 
 ---
-# Directors (105)
+# Directors (106)
 
 | Director | Country | Active | Films |
 |---|---|---|---|
@@ -80,6 +80,7 @@
 | Mati Diop | France | 2009–2024 | 8 |
 | Maurice Pialat | France | 1951–1995 | 16 |
 | Max Ophüls | Germany | 1932–1955 | 20 |
+| Manoel de Oliveira | Portugal | 1931-2015 | 33 |
 | Maya Deren | USA | 1943–1993 | 12 |
 | Mihalis Kakogiannis | Greece | 1954–1999 | 14 |
 | Mike de Leon | Philippines | 1976–2019 | 13 |
